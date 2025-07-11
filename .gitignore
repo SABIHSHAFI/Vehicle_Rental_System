@@ -1,0 +1,30 @@
+# === Java build output ===
+*.class
+*.log
+
+# === Maven ===
+target/
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# === Eclipse ===
+.classpath
+.project
+.settings/
+
+# === VSCode (if used later) ===
+.vscode/
+
+# === OS generated ===
+.DS_Store
+Thumbs.db
+
+# === JARs in lib or anywhere manually added ===
+*.jar
+
+# === Bin output (you have /bin folder) ===
+bin/
