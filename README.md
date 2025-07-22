@@ -203,3 +203,6 @@ jobs:
 **Sabih Shafi**
 Student | B.Tech in Computer Science & Engineering
 GitHub: [SABIHSHAFI](https://github.com/SABIHSHAFI)
+**Augstay**
+Student | B.Tech in Computer Science & Engineering
+GitHub: [AUGSTAY](https://github.com/AugstayGupta)
