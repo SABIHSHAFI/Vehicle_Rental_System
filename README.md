@@ -200,9 +200,6 @@ jobs:
 
 ## 🙋 Author
 
-**Sabih Shafi**
-Student | B.Tech in Computer Science & Engineering
-GitHub: [SABIHSHAFI](https://github.com/SABIHSHAFI)
-**Augstay**
-Student | B.Tech in Computer Science & Engineering
-GitHub: [AUGSTAY](https://github.com/AugstayGupta)
+[SABIHSHAFI](https://github.com/SABIHSHAFI)
+
+[AUGSTAY](https://github.com/AugstayGupta)
